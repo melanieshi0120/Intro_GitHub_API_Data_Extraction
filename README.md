@@ -1,5 +1,5 @@
 # Introduction of Data Extraction with GitHub API
-![image/github.png](image/github.png)
+![images/github.png](images/github.png)
 
 # What is an API?
 API is the acronym for Application Programming Interface, which is a software intermediary that allows two applications to talk to each other. The GitHub API is provided by GitHub for developers who want to develop applications targeting GitHub.
