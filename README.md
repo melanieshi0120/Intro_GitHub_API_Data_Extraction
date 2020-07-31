@@ -7,13 +7,14 @@ API is the acronym for Application Programming Interface, which is a software in
 # Get your token
 If you want to extract more data without limitation, you need to create a token from GitHub. Proceed as follows：
 - Step 1: Login GitHub with your user name and password
-![image/0homepage.png](image/0homepage.png)
+![images/0homepage.png](image/0homepage.png)
 
 - Step 2: Click your icon on the right top and click “settings”
-![image/1click_settings.png](image/1click_settings.png)
+
+![images/1click_settings.png](image/1click_settings.png)
 
 - Step 3: Scroll down and click “Developer settings”
-![image/2Developer_settings.png](image/2Developer_settings.png)
+![images/2Developer_settings.png](image/2Developer_settings.png)
 - Step 4: Click “personal access token” on a new page then click “Generate New Token”
 - Step 5: It will require your GitHub password
 - Step 6: After you enter your password you can see a new page, and on the top, you can see “Note”. Here you can name your token and select the appropriate scopes.
