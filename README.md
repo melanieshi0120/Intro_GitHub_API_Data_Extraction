@@ -1,7 +1,7 @@
 # Introduction of Data Extraction with GitHub API
 ![images/github.png](images/github.png)
 
-# What is an API?
+## What is an API?
 API is the acronym for Application Programming Interface, which is a software intermediary that allows two applications to talk to each other. The GitHub API is provided by GitHub for developers who want to develop applications targeting GitHub.
 
 # Get your token
@@ -27,5 +27,5 @@ If you want to extract more data without limitation, you need to create a token 
 ## Step 7: Scroll down to the bottom and click “Generate Token”, then you can get you token on a new page.
 ![images/7scroll_down_to_the_bottom_generatetoken.png](images/7scroll_down_to_the_bottom_generatetoken.png)
 
-# Code in Python
+## Code in Python
 You can click the Jupter Notebook -GitHub_Api_Project.ipynb above in this repo.
